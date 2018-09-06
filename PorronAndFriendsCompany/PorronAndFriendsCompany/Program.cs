@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace PorronPetStoreProject
+namespace PorronAndFriendsCompany
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace PorronPetStoreProject
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new LogIn());
+            Application.Run(new Form1());
         }
     }
 }

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CapaNucleo")]
+[assembly: AssemblyTitle("CapaNegocio")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CapaNucleo")]
+[assembly: AssemblyProduct("CapaNegocio")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("357eefbd-d740-4e6d-95cf-776558fbdb25")]
+[assembly: Guid("e95a6b4a-db67-4bb6-9443-3f948f8c7432")]
 
 // Version information for an assembly consists of the following four values:
 //

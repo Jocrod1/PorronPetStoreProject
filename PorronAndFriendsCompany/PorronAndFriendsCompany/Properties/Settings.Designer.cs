@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PorronPetStoreProject.Properties
+namespace PorronAndFriendsCompany.Properties
 {
 
 
